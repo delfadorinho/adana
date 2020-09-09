@@ -1,0 +1,2 @@
+# Warbandgame
+Warbandın ayrıcalıkları
